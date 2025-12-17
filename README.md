@@ -26,8 +26,3 @@ Customer-Service-Chatbot/
 ├── intents.json        # Predefined questions and responses
 ├── requirements.txt    # Required libraries
 └── README.md           # Project documentation
-
-Add screenshots section or demo output
-
-
-Just tell me 👍
